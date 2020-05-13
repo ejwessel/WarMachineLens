@@ -1,9 +1,9 @@
 {
-    "lens_id": "",
+    "lens_id": "3358f47e-8c38-4e12-a3c4-e67d2fa64756",
     "document_id": "wvcwwnaOrCIBQDPGnTg_",
     "original_document_id": "wvcwwnaOrCIBQDPGnTg_",
     "version": "23",
-    "lastChanged": "1589328655144",
+    "lastChanged": "1589329401918",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -70,9 +70,6 @@
                     ],
                     [
                         "echopark_spec"
-                    ],
-                    [
-                        "model"
                     ],
                     [
                         "model",
@@ -650,10 +647,6 @@
                     ],
                     [
                         "model",
-                        "Materials"
-                    ],
-                    [
-                        "model",
                         "Materials",
                         "HD_Ironman_black"
                     ],
@@ -670,12 +663,12 @@
                     [
                         "model",
                         "Materials",
-                        "HD_Ironman_silver"
+                        "HD_Ironman_red_eyes"
                     ],
                     [
                         "model",
                         "Materials",
-                        "HD_Ironman_yellow"
+                        "HD_Ironman_silver"
                     ],
                     [
                         "model",
@@ -4060,7 +4053,7 @@
                     },
                     {
                         "k": "12",
-                        "v": "..\/AdditionalFiles\/model\/Materials\/HD_Ironman_yellow.lsmat"
+                        "v": "..\/AdditionalFiles\/model\/Materials\/HD_Ironman_red_eyes.lsmat"
                     },
                     {
                         "k": "13",
@@ -4162,7 +4155,7 @@
                     },
                     {
                         "k": "12",
-                        "v": "b32ca9315c2ab525c25730c602a98b0b"
+                        "v": "96764d8a0f667b3b6efa66b2dcd84f96"
                     },
                     {
                         "k": "13",
@@ -4178,7 +4171,7 @@
                     },
                     {
                         "k": "17",
-                        "v": "5d57c78d4c3252b8150f7bf06ccf1984"
+                        "v": "b8c74b268377131c4616ebbd9957ef12"
                     },
                     {
                         "k": "18",
@@ -4186,7 +4179,7 @@
                     },
                     {
                         "k": "19",
-                        "v": "81e2719ff08990bb1e0019fd8c45be3f"
+                        "v": "eae11de05f6bae3ef3e86654f7358067"
                     },
                     {
                         "k": "20",
@@ -4304,15 +4297,15 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-05-12T20:09:47",
+                        "lastModified": "2020-05-12T20:16:59",
                         "name": "Public",
-                        "hash": "be52fa1c7f89b2381f4cf16ad2414005",
+                        "hash": "b954a6b2b7384dae9c2ef441b7600a48",
                         "children": [
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-05-12T20:09:47",
+                                "lastModified": "2020-05-12T20:16:59",
                                 "name": "FaceShield.lsmat",
-                                "hash": "edf480efa201c9496aa58c9b753960c9",
+                                "hash": "af722ae56601237cfbbe964882a26c12",
                                 "children": ""
                             },
                             {
@@ -4432,9 +4425,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-05-12T20:09:46",
+                                "lastModified": "2020-05-12T20:16:59",
                                 "name": "Helm.lsmat",
-                                "hash": "4bec5e4f6fb7e3e90fac137978533bb3",
+                                "hash": "ebb8240dcf7895062fcc784256f2b9e8",
                                 "children": ""
                             },
                             {
@@ -7636,7 +7629,7 @@
                                         "additional": ""
                                     },
                                     {
-                                        "name": "HD_Ironman_yellow",
+                                        "name": "HD_Ironman_red_eyes",
                                         "type": "2",
                                         "subtype": "0",
                                         "resourceId": "242",
@@ -7886,9 +7879,11 @@
             "selection": {
                 "resources": [
                     {
-                        "uid": "1586874185453817:97012",
+                        "uid": "1586873584901284:10107",
                         "path_list": [
-                            "Helm"
+                            "model",
+                            "Materials",
+                            "HD_Ironman_yellow"
                         ]
                     }
                 ]
