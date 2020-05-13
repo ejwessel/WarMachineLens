@@ -3,7 +3,7 @@
     "document_id": "wvcwwnaOrCIBQDPGnTg_",
     "original_document_id": "wvcwwnaOrCIBQDPGnTg_",
     "version": "23",
-    "lastChanged": "1589328143838",
+    "lastChanged": "1589328655144",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -1283,7 +1283,7 @@
             "hints": [
                 ""
             ],
-            "lens": "Iron Man",
+            "lens": "War Machine",
             "applicability": "3",
             "lens_descriptors": ""
         },
@@ -4178,7 +4178,7 @@
                     },
                     {
                         "k": "17",
-                        "v": "61ec2b46b0c675d0e7612cd5ca7cd52a"
+                        "v": "5d57c78d4c3252b8150f7bf06ccf1984"
                     },
                     {
                         "k": "18",
@@ -4186,7 +4186,7 @@
                     },
                     {
                         "k": "19",
-                        "v": "8c8f8cb7c3f6c4a929fa461bc30fea2f"
+                        "v": "81e2719ff08990bb1e0019fd8c45be3f"
                     },
                     {
                         "k": "20",
@@ -4304,15 +4304,15 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-05-12T19:59:02",
+                        "lastModified": "2020-05-12T20:09:47",
                         "name": "Public",
-                        "hash": "f9cc59c504bee2b9c313636eafcada04",
+                        "hash": "be52fa1c7f89b2381f4cf16ad2414005",
                         "children": [
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-05-12T19:59:02",
+                                "lastModified": "2020-05-12T20:09:47",
                                 "name": "FaceShield.lsmat",
-                                "hash": "5229079ff36f1e726d4c5da7feaa3938",
+                                "hash": "edf480efa201c9496aa58c9b753960c9",
                                 "children": ""
                             },
                             {
@@ -4432,9 +4432,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-05-12T19:59:02",
+                                "lastModified": "2020-05-12T20:09:46",
                                 "name": "Helm.lsmat",
-                                "hash": "c6fc71705681d99f2ce12ee9f49268d2",
+                                "hash": "4bec5e4f6fb7e3e90fac137978533bb3",
                                 "children": ""
                             },
                             {
@@ -7733,19 +7733,6 @@
                         ]
                     },
                     {
-                        "name": "FaceShield",
-                        "type": "2",
-                        "subtype": "1",
-                        "resourceId": "246",
-                        "dependency": "0",
-                        "uid": "1586874079413619:75786",
-                        "fileId": "135",
-                        "originalId": "136",
-                        "publicId": "17",
-                        "source": "",
-                        "additional": ""
-                    },
-                    {
                         "name": "Helm",
                         "type": "2",
                         "subtype": "1",
@@ -7878,14 +7865,32 @@
                         "publicId": "106",
                         "source": "\/Users\/ejwessel\/Downloads\/REVERSE_Iron man suit up sound effects free 0.2s - 1.2s (4YF6PxXcGk8) 961 (online-audio-converter.com).mp3",
                         "additional": ""
+                    },
+                    {
+                        "name": "FaceShield",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "246",
+                        "dependency": "0",
+                        "uid": "1586874079413619:75786",
+                        "fileId": "135",
+                        "originalId": "136",
+                        "publicId": "17",
+                        "source": "",
+                        "additional": ""
                     }
                 ]
             }
         },
         "InspectorController": {
             "selection": {
-                "objects": [
-                    "1586873589357451:17363"
+                "resources": [
+                    {
+                        "uid": "1586874185453817:97012",
+                        "path_list": [
+                            "Helm"
+                        ]
+                    }
                 ]
             }
         },
